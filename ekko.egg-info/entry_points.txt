@@ -1,0 +1,2 @@
+[console_scripts]
+ekko = ekko.main:main
